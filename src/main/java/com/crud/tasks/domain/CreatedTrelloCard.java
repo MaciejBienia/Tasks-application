@@ -21,7 +21,7 @@ public class CreatedTrelloCard {
     @JsonProperty("shortUrl")
     private String shortUrl;
 
-    @JsonProperty("badges")
-    private int votes;
-    private AttachmentByType attachment;
+//    @JsonProperty("badges")
+//    private int votes;
+//    private AttachmentByType attachment;
 }
